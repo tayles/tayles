@@ -12,6 +12,7 @@ My passion is for bringing data rich applications to life. I love the speed and 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ## Web Frameworks & Libraries
 
@@ -39,13 +40,18 @@ My passion is for bringing data rich applications to life. I love the speed and 
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
 ![WebAudio API](https://img.shields.io/badge/webaudio_api-%23000000.svg?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-%23990000.svg?style=for-the-badge&logo=webgl&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 
 ## Tools & Technologies
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%2314151a.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
@@ -60,7 +66,6 @@ My passion is for bringing data rich applications to life. I love the speed and 
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%236BA539.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
