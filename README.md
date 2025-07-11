@@ -36,6 +36,7 @@ My passion is for bringing data rich applications to life. I love the speed and 
 ![Progressive Web Apps (PWA)](https://img.shields.io/badge/pwa-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![shaka-player](https://img.shields.io/badge/shaka_player-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
